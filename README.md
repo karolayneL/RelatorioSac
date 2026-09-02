@@ -36,10 +36,10 @@ Este projeto é um Sistema de Serviço de Atendimento ao Cliente (SAC) desenvolv
 ## 🖥️ Dashboard
 O dashboard foi projetado para oferecer uma visão gerencial rápida e intuitiva. Através dele, é possível interagir com os dados e filtrar as informações por período, canal e status.
 
-![Visão Geral do Dashboard](imagens/dashboard_visao_geral.png)
+![Visão Geral do Dashboard](imagens/dashboard_visao_geral.png.jpeg)
 *Legenda: Visão consolidada dos principais KPIs e volume de chamados do SAC.*
 
-![Análise Detalhada](imagens/dashboard_analise_detalhada.png)
+![Análise Detalhada](imagens/dashboard_analise_detalhada.png.jpeg)
 *Legenda: Detalhamento do tempo médio de resolução e distribuição de chamados por categoria.*
 
 ## 💡 Principais Análises e Insights
